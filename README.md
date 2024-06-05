@@ -1,6 +1,8 @@
 Micro-Grids
 ========================
 
+This is code used for the publication: [https://doi.org/10.1109/PTC.2019.8810571]
+
 ### Description
 
 The Micro-Grid library main objective is to provide an open source alternative to the problem of sizing and dispatch of energy in micro-grids in isolated places. It’s written in python(pyomo) and use excel and text files as input and output data handling and visualization. This Branch was created to contain the data for the  13th IEEE PowerTech 2019 paper "Two-stage stochastic sizing of a rural micro-grid based on stochastic load generation". 
